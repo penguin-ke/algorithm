@@ -1,0 +1,3 @@
+for搭配else使用
+
+Python的for迴圈其實可以搭配else使用, 其實應該稱作no-break. 與for使用的else表示如果for迴圈被完整執行, 那就執行else的部份. 如果迴圈被中斷了(break), 那else的部份也不會被執行.
